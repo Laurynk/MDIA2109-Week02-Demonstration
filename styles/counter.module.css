@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6rem;
+    min-height: 100vh;
+}
+
+.button {
+    background-color: aqua;
+    font-family: sans-serif;
+    border-style: solid;
+    border-radius: 5px;
+    
+}
